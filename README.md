@@ -58,3 +58,5 @@ Icon: A stylized soundwave forming a brain or spiral.
 Colors: Warm earth tones + digital blue.
 
 Style: Minimalist, fluid, motion-inspired.
+
+demo:https://drive.google.com/file/d/1XrPWvA2IeP023rH6_wOimW5zmvpvTHrh/view?usp=sharing
